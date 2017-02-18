@@ -1,0 +1,33 @@
+{
+  "name": "electron-angular",
+  "version": "0.0.18",
+  "description": "Electron-angular with common dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalfLegend/electron-angular.git"
+  },
+  "author": "HalfLegend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HalfLegend/electron-angular/issues"
+  },
+  "homepage": "https://github.com/HalfLegend/electron-angular#readme",
+  "dependencies": {
+    "elegular": "0.0.18",
+    "@angular/common": "^2.4.7",
+    "@angular/compiler": "^2.4.7",
+    "@angular/core": "^2.4.7",
+    "@angular/platform-browser": "^2.4.7",
+    "@angular/platform-browser-dynamic": "^2.4.7",
+    "@angular/platform-server": "^2.4.7"
+  },
+  "optionalDependencies": {
+    "@angular/router": "^3.4.7",
+    "@types/systemjs": "^0.20.0",
+    "systemjs": "^0.20.9"
+  }
+}
