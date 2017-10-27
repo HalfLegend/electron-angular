@@ -1,6 +1,6 @@
 {
   "name": "electron-angular",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "description": "Electron-angular with common dependencies.",
   "main": "index.js",
   "scripts": {
@@ -20,16 +20,16 @@
     "@angular/forms": "^4.0.0",
     "@angular/http": "^4.0.0",
     "@angular/router": "^4.0.0",
-    "elegular": "^0.0.27",
+    "@types/gulp": "^4.0.5",
+    "elegular": "^0.0.28",
+    "gulp": "^3.9.1",
     "typescript": "^2.5.3"
   },
   "optionalDependencies": {
     "@angular/cdk": "^2.0.0-beta.12",
     "@angular/flex-layout": "^2.0.0-beta.5",
     "@angular/material": "^2.0.0-beta.12",
-    "@types/gulp": "^3.8.32",
     "@types/systemjs": "^0.20.0",
-    "gulp": "^3.9.1",
     "systemjs": "^0.20.9"
   }
 }
